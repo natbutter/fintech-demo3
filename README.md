@@ -1,26 +1,17 @@
-# Readme File for my project
-This project is the best
+# My Level 1 Header
 
----
+![Alt text](shutterstock_1695151366_na_studio.jpg)
 
-## Technology
-We are using git, GitHub, and [a great markdown site](dillinger.io) for markdown.
+## Level 2 header
+Description
 
-### Installation Guide
-We use the online github and we *followed* the **guide from gitlab**.
-asdasdas.
-sasda.
+### Level 3 header 
 
-> This is a quote here.
-> I can keep quoting
-And then it won't stop until I do two returns
+# Table of Contents
+1. [Level 1](#my-level-1-header)
+2. [Level 2](#level-2-header)
+3. [Third Example](#level-3-header)
 
-My list
-* Item 1
-* Item 2
-* Item 3
-
-dddd
 
 
 
